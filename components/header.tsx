@@ -48,11 +48,11 @@ export function Header() {
           {/* Phone & Mobile Menu */}
           <div className="flex items-center gap-4">
             <a
-              href="tel:+79001234567"
+              href="tel:+79066597141"
               className="hidden sm:flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors"
             >
               <Phone className="w-4 h-4" />
-              <span>+7 (900) 123-45-67</span>
+              <span>+7 (906) 659-71-41</span>
             </a>
 
             {/* Mobile Menu */}
