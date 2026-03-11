@@ -12,7 +12,7 @@ const contactInfo = [
   {
     icon: Phone,
     label: "Телефон",
-    value: "+7 (900) 123-45-67",
+    value: "+7 (906) 659-71-41",
     href: "tel:+79001234567",
   },
   {
