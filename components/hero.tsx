@@ -9,7 +9,7 @@ export function Hero() {
       <div className="absolute inset-0 z-0">
         <Image
           src="/images/hero-farm.jpg"
-          alt="Фермерское хозяйство"
+          alt="КФХ Мерещанское"
           fill
           className="object-cover"
           priority
