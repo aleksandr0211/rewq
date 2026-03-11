@@ -27,8 +27,8 @@ export function Header() {
               <span className="text-primary-foreground font-serif text-lg font-bold">Ф</span>
             </div>
             <div className="hidden sm:block">
-              <span className="font-serif text-xl font-semibold text-foreground">Фермерское</span>
-              <span className="block text-xs text-muted-foreground -mt-1">хозяйство</span>
+              <span className="font-serif text-xl font-semibold text-foreground">КФХ</span>
+              <span className="block text-xs text-muted-foreground -mt-1">Мерещанское</span>
             </div>
           </Link>
 
